@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
