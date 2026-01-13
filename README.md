@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
+| [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +52,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
