@@ -3,18 +3,15 @@ public:
     int maxProduct(vector<int>& nums) {
         int n = nums.size();
 
-        int maxProd = nums[0];
-        int minProd = nums[0];
-        int result = nums[0];
+        int maxProd = INT_MIN;
 
-        for(int i=1;i<n;i++){
-            if(nums[i] < 0){
-                swap(maxProd, minProd);
+        for(int i=0;i<n;i++){
+            int prod = 1;
+            for(int j=i;j<n;j++){
+                prod *= nums[j];
+                maxProd = max(prod, maxProd);
             }
-            maxProd = max(maxProd * nums[i], nums[i]);
-            minProd = min(minProd * nums[i], nums[i]);
-            result = max(result, maxProd);
         }
-        return result;
+        return maxProd;
     }
 };
