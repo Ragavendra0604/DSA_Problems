@@ -9,8 +9,7 @@ public:
 
         int maxSum = 0;
         while(left <= right){
-            int sum = nums[left] + nums[right];
-            maxSum = max(maxSum, sum); 
+            maxSum = max(maxSum, nums[left] + nums[right]); 
 
             left++;
             right--;
