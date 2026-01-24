@@ -4,8 +4,7 @@ public:
         int n = temperatures.size();
         int st[n]; 
         int tos  = -1;
-        vector<int> NG(n);
-
+        int NG[n];
         for(int i=n-1;i>=0;i--){
             while(tos != -1 && temperatures[i] >= temperatures[st[tos]])--tos;
             if(tos != -1)
