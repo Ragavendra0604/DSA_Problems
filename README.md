@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
