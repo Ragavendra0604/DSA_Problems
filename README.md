@@ -151,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
