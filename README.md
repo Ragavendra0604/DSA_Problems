@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -158,9 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0058-length-of-last-word) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
