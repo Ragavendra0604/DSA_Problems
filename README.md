@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
