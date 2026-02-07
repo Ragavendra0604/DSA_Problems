@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
