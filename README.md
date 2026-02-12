@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
 | [3379-transformed-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3379-transformed-array) |
 ## Number Theory
 |  |
