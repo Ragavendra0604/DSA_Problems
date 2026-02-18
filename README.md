@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0693-binary-number-with-alternating-bits) |
 ## Tree
 |  |
 | ------- |
