@@ -6,13 +6,13 @@ public:
 
         int idx = -1;
         int max_Count = -1;
+
         for(int i=0;i<rows;i++){
             int row_Count = 0;
             for(int j=0;j<cols;j++){
                 row_Count += mat[i][j];
             }
-
-            if(row_Count > max_Count){
+            if(max_Count < row_Count){
                 max_Count = row_Count;
                 idx = i;
             }
