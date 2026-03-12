@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
 | [0696-count-binary-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
