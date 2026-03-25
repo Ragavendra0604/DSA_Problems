@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
