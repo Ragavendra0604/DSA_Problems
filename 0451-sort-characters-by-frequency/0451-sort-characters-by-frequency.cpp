@@ -1,17 +1,18 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        vector<int> freq(128, 0);
+        unordered_map<char, int> freq;
+        for (char c : s) freq[c]++;
 
-        for(char ch : s) freq[ch]++;
+        vector<pair<char,int>> vec(freq.begin(), freq.end());
+        sort(vec.begin(), vec.end(), [](auto &a, auto &b){
+            return a.second > b.second;
+        });
 
-        auto cmp = [&](char a, char b){
-            if(freq[a] == freq[b]) return a < b;
-            return freq[a] > freq[b]; 
-        };
-
-        sort(s.begin(), s.end(), cmp);
-
-        return s;
+        string result;
+        for (auto &p : vec) {
+            result.append(p.second, p.first);
+        }
+        return result;
     }
 };
