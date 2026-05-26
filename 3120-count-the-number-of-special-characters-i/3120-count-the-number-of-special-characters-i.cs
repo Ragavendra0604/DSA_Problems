@@ -1,24 +1,8 @@
 public class Solution {
     public int NumberOfSpecialChars(string word) {
-        HashSet<char> lowerSet = new HashSet<char>();
-        HashSet<char> upperSet = new HashSet<char>();
+        var lowerSet = new HashSet<char>(word.Where(char.IsLower));
+        var upperSet = new HashSet<char>(word.Where(char.IsUpper));
 
-        foreach(char ch in word){
-            if(char.IsLower(ch)){
-                lowerSet.Add(ch);
-            }
-            else{
-                upperSet.Add(ch);
-            }
-        }
-
-        int specialCount = 0;
-        foreach(char ch in lowerSet){
-            if(upperSet.Contains(char.ToUpper(ch))){
-                specialCount++;
-            }
-        }
-
-        return specialCount;
+        return lowerSet.Count(ch => upperSet.Contains(char.ToUpper(ch)));
     }
 }
