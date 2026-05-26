@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
