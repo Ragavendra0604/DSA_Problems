@@ -317,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2487-remove-nodes-from-linked-list) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
