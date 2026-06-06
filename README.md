@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3945-digit-frequency-score](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3945-digit-frequency-score](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
