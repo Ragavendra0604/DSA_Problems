@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
