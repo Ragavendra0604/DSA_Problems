@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
 | ------- |
