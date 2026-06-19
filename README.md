@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
