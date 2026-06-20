@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2643-row-with-maximum-ones) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0620-not-boring-movies) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
