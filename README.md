@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -376,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
