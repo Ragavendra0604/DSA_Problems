@@ -20,22 +20,33 @@ public:
         if(head == NULL){
             return head;
         }
-        unordered_map<Node*, Node*> mp;
 
         Node* temp = head;
         while(temp != NULL){
-            Node* newNode = new Node(temp -> val);
-            mp[temp] = newNode;
-            temp = temp -> next;
+            Node* copyNode = new Node(temp -> val);
+            copyNode -> next = temp -> next;
+            temp -> next = copyNode;
+            temp = temp -> next -> next;
         }
-        
+
         temp = head;
         while(temp != NULL){
-            mp[temp] -> next = mp[temp -> next];
-            mp[temp] -> random = mp[temp -> random];
+            Node* copyNode = temp -> next;
+            if(temp -> random) copyNode -> random = temp -> random -> next;
+            temp = temp -> next -> next;
+        }
+
+        Node* dummyNode = new Node(-1);
+        Node* res = dummyNode;
+
+        temp = head;
+        while(temp != NULL){
+            res -> next = temp -> next;
+            temp -> next = temp -> next -> next;
+            res = res -> next;
             temp = temp -> next;
         }
 
-        return mp[head];
+        return dummyNode -> next;
     }
 };
