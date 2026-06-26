@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0097-interleaving-string) |
 | [0152-maximum-product-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [1871-jump-game-vii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1871-jump-game-vii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0541-reverse-string-ii) |
