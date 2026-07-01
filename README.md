@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0012-integer-to-roman) |
