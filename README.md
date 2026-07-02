@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3379-transformed-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3637-trionic-array-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3637-trionic-array-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1901-find-a-peak-element-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3379-transformed-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
