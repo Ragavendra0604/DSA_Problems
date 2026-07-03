@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -364,12 +365,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0542-01-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0542-01-matrix) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
