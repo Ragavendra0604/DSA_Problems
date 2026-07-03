@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -356,18 +358,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
@@ -441,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0542-01-matrix) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
