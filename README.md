@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
