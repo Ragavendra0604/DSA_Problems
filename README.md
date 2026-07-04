@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0633-sum-of-square-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1871-jump-game-vii) |
 ## Trie
