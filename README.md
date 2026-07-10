@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0739-daily-temperatures) |
@@ -479,4 +480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0542-01-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0542-01-matrix) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
