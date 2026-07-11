@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0058-length-of-last-word) |
