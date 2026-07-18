@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0141-linked-list-cycle) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0097-interleaving-string) |
 | [0152-maximum-product-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0152-maximum-product-subarray) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0739-daily-temperatures) |
