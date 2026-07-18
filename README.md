@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2643-row-with-maximum-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
