@@ -39,11 +39,11 @@ public:
         int mod = (int)(1e9 + 7);
         for(int i = 0 ; i < n ; i++){
             int left = i - PSE[i];
-            int right = i - NSE[i];
+            int right = NSE[i] - i;
 
             total = (total + (left * right * 1LL * arr[i]) % mod) % mod;
         }
 
-        return -total;
+        return total;
     }
 };
