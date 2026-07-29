@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 ## Counting Sort
 |  |
