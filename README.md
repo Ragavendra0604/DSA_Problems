@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0748-shortest-completing-word) |
 | [0875-koko-eating-bananas](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0496-next-greater-element-i) |
+| [0748-shortest-completing-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0696-count-binary-substrings) |
+| [0748-shortest-completing-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
