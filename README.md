@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0392-is-subsequence) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0205-isomorphic-strings) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0208-implement-trie-prefix-tree) |
 ## Simulation
 |  |
@@ -592,4 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0901-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
