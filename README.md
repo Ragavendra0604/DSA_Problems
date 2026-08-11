@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0496-next-greater-element-i) |
 | [0748-shortest-completing-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2487-remove-nodes-from-linked-list) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -618,4 +621,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
