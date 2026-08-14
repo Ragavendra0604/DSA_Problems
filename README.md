@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3731-find-missing-elements) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Graph Theory
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3612-process-string-with-special-operations-i) |
