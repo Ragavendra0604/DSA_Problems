@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
