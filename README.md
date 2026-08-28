@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0242-valid-anagram) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
@@ -664,4 +668,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0204-count-primes) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
