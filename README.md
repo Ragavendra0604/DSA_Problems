@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0155-min-stack) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
