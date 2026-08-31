@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0078-subsets) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
