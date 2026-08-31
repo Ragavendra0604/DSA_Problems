@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0607-sales-person) |
