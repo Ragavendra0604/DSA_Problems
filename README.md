@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -669,14 +673,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -693,4 +700,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0187-repeated-dna-sequences) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
