@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0748-shortest-completing-word](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0748-shortest-completing-word) |
+| [0860-lemonade-change](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1833-maximum-ice-cream-bars) |
