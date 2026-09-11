@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
