@@ -3,10 +3,7 @@ public:
     int candy(vector<int>& rating) {
         int n = rating.size();
         vector<int> left(n, 1);
-        vector<int> right(n, 1);
-
-        left[0] = 1;
-        right[n-1] = 1;
+        int curr = 1, right = 1;
     
         for(int i = 1 ; i < n ; i++){
             if(rating[i-1] < rating[i]){
@@ -14,16 +11,19 @@ public:
             }
         }
 
+        int minCandy = max(1, left[n - 1]);
         for(int i = n - 2 ; i >= 0 ; i--){
             if(rating[i] > rating[i+1]){
-                right[i] = right[i+1] + 1;
+                curr = right + 1;
+                right = curr;
             }
+            else{
+                curr = 1;
+                right = curr;
+            }
+            minCandy += max(left[i], curr);
         }
 
-        int minCandy = 0;
-        for(int i = 0 ; i < n ; i++){
-            minCandy += (max(left[i], right[i]));
-        }
         return minCandy;
     }
 };
