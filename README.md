@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0258-add-digits) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
