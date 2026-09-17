@@ -37,17 +37,33 @@ public:
         // return dp[n - 1];
         
         // 3. Tabulation
-        vector<int> dp(n); 
+        // vector<int> dp(n); 
 
-        dp[0] = nums[0];
-        int neg = 0;
+        // dp[0] = nums[0];
 
-        for(int i = 1 ; i < n ; i++){
-            int pick = nums[i]; if(i > 1) pick += dp[i - 2];
-            int notpick = 0 + dp[i - 1];
+        // for(int i = 1 ; i < n ; i++){
+        //     int pick = nums[i]; if(i > 1) pick += dp[i - 2];
+        //     int notpick = 0 + dp[i - 1];
 
-            dp[i] = max(pick, notpick);
+        //     dp[i] = max(pick, notpick);
+        // }
+        // return dp[n - 1];
+
+        // 4. Space Optimization
+        int prev2 = 0;
+        int prev = 0;
+
+        int curr;
+        for(int i = 0 ; i < n ; i++){
+            int pick = nums[i] + prev2;
+            int notpick = 0 + prev;
+
+            curr = max(pick, notpick);
+
+            prev2 = prev;
+            prev = curr;
         }
-        return dp[n - 1];
+
+        return prev;
     }
 };
