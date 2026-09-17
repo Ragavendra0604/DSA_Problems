@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
