@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3379-transformed-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
