@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1035-uncrossed-lines) |
 | [1137-n-th-tribonacci-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1871-jump-game-vii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1871-jump-game-vii) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2643-row-with-maximum-ones) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
