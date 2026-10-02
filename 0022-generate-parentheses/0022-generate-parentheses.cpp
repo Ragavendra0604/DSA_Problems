@@ -1,18 +1,19 @@
 class Solution {
 public:
-    void solve(int open, int close, string ds, vector<string> &ans){
-        if(open == 0 && close == 0){
-            ans.push_back(ds);
+    void helper(int i, int j, string s, vector<string> &ans){
+        if(i == 0 && j == 0) {
+            ans.push_back(s);
             return;
         }
+        if(i > 0) helper(i - 1, j, s + "(", ans);
 
-        if(open > 0) solve(open - 1, close, ds + "(", ans);
-
-        if(close > open) solve(open, close - 1, ds + ")", ans);
+        if(j > i) helper(i, j - 1, s + ")", ans);
     }
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        solve(n, n, "", ans);
+
+        helper(n, n, "", ans);
+
         return ans;
     }
 };
