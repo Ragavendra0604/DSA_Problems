@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
