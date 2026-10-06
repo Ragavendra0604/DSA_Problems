@@ -11,12 +11,8 @@ public:
                 open++;
             }
             else{
-                if(open > 0){
-                    open--;
-                }
-                else{
-                    close++;
-                }
+                if(open > 0) open--;
+                else close++;
             }
         }
 
