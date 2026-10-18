@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1463-cherry-pickup-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1871-jump-game-vii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1871-jump-game-vii) |
 | [3524-find-x-value-of-array-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1927-sum-game) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -631,10 +636,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -779,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -853,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -861,4 +870,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0494-target-sum) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
