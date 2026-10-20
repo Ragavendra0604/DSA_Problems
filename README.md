@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3945-digit-frequency-score](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ragavendra0604/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
