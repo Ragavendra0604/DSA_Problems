@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0455-assign-cookies) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0509-fibonacci-number) |
@@ -872,10 +874,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0494-target-sum) |
 ## Union-Find
 |  |
