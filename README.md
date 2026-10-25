@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1035-uncrossed-lines) |
 | [1200-minimum-absolute-difference](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1901-find-a-peak-element-ii) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0542-01-matrix](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0542-01-matrix) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ragavendra0604/DSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
 | ------- |
@@ -889,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ragavendra0604/DSA_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
